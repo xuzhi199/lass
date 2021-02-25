@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.aorise.log.autoconfigure.LogAutoConfiguration,\
+com.aorise.log.autoconfigure.LogAop
